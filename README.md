@@ -1,0 +1,1 @@
+A Repository for Framwork Based Programming (Pemrograman Berbasis Kerangka Kerja) about Golang basic implementation. The code in this repository is about Booking system for a Theater Show called "Canda dan Tawa"
